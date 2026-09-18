@@ -1,0 +1,1 @@
+document.getElementById('demoButton')?.addEventListener('click',()=>{document.getElementById('result').textContent='✓ JavaScript is running in the browser!';});
